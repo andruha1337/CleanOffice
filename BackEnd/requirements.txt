@@ -8,3 +8,4 @@ gunicorn
 uvicorn[standard]
 passlib[bcrypt]
 python-jose[cryptography]
+python-multipart
