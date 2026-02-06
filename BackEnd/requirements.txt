@@ -6,3 +6,5 @@ pydantic-settings
 python-dotenv
 gunicorn
 uvicorn[standard]
+passlib[bcrypt]
+python-jose[cryptography]
